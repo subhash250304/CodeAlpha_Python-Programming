@@ -4,7 +4,8 @@ CodeAlpha Python Internship Projects
 This repository contains the Python Programming Tasks I completed during my internship with CodeAlpha.
 The tasks demonstrate my skills in Python fundamentals, problem-solving, automation, and building small real-world projects.
 
-Project List
+Project List:
+
 Task 1: Hangman Game 
 A simple text-based word guessing game.
 Randomly selects a word from a predefined list.
