@@ -70,6 +70,6 @@ python task4_chatbot.py
 Connect with Me
 
 LinkedIn:www.linkedin.com/in/subhash-s-27b006347
-GitHub: Subbu250304
+GitHub: subhash250304
 
 Thank you CodeAlpha for the amazing learning experience!
