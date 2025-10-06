@@ -42,10 +42,14 @@ Python 3.x
 ~ Modules:
 random, os, shutil
 
-Internship Details
+Internship Details:
+
 Company: CodeAlpha
+
 Domain: Python Programming
+
 Tasks Completed: All 4 (minimum requirement: 2–3)
+
 Perks: Certificate of Completion, LoR (based on performance), Placement Support
 
 ~ How to Run the Projects
